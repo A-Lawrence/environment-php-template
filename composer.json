@@ -1,5 +1,5 @@
 {
-    "name": "alawrence/php-environment-default",
+    "name": "alawrence/environment-php-template",
     "description": "A really simply PHP Environment setup.",
     "require": {
         "phpspec/phpspec": "^3.2"
