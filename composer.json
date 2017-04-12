@@ -1,0 +1,18 @@
+{
+    "name": "alawrence/php-environment-default",
+    "description": "A really simply PHP Environment setup.",
+    "require": {
+        "phpspec/phpspec": "^3.2"
+    },
+    "autoload": {
+        "psr-0": {
+            "" : "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anthony Lawrence",
+            "email": "artisan@anthonylawrence.me.uk"
+        }
+    ]
+}
